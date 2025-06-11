@@ -7,7 +7,8 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "three": "^0.134.0",
+    "@tresjs/core": "^4.3.6",
+    "three": "0.134",
     "troisjs": "^0.3.3",
     "vue": "^3.2.20"
   },
