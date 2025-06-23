@@ -7,17 +7,17 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@tresjs/cientos": "^4.3.1",
     "@tresjs/core": "^4.3.6",
-    "three": "0.134",
-    "troisjs": "^0.3.3",
-    "vue": "^3.2.20"
+    "three": "^0.177.0",
+    "vue": "^3.5.12"
   },
   "devDependencies": {
-    "@types/three": "^0.134.0",
-    "@vitejs/plugin-vue": "^1.9.4",
-    "@vue/compiler-sfc": "^3.2.20",
-    "typescript": "^4.4.4",
-    "vite": "^2.6.14",
-    "vue-tsc": "^0.29.5"
+    "@types/three": "^0.169.0",
+    "@vitejs/plugin-vue": "^5.1.4",
+    "@vue/compiler-sfc": "^3.5.12",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.9",
+    "vue-tsc": "^2.1.6"
   }
 }
